@@ -1,0 +1,29 @@
+$ ./example8-15.py 
+Enter the Db2 userid to be used: db2inst1
+Password for db2inst1: 
+Column 1 details:
+_________________________________________
+Column name              : LASTNAME
+Data type                : string
+Size                     : 15
+Scale (decimal digits)   : 0
+Precision                : 15
+Display size             : 15
+
+Column 2 details:
+_________________________________________
+Column name              : DEPTNAME
+Data type                : string
+Size                     : 36
+Scale (decimal digits)   : 0
+Precision                : 36
+Display size             : 36
+
+Column 3 details:
+_________________________________________
+Column name              : False
+Data type                : False
+Size                     : False
+Scale (decimal digits)   : False
+Precision                : False
+Display size             : False
